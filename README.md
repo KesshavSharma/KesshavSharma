@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 
    - “Crafting code and chasing dreams. ✨”
-   -“Transforming caffeine into code since [year]. ☕”
+   -“Transforming caffeine into code since [2019]. ☕”
    - “Ctrl + Alt + Defeat is not in my vocabulary. 💪”
    - “Debugger of life’s quirks and quantum glitches. 🛠️”
    - “Fluent in C++, Java, and the art of emoji code. 🚀”
